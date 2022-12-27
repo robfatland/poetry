@@ -158,4 +158,45 @@ DOI: 10.1002/cpe.6250
 
 
 
+## Ground vibrations recorded by fiber-optic cables reveal traffic response to COVID-19 lockdown measures in Pasadena, California
+Author
+Wang, Xin 
+Zhan, Zhongwen 
+Williams, Ethan F. 
+Herráez, Miguel González 
+Martins, Hugo Fidalgo 
+Karrenbach, Martin
+LCSH and PCI subjects
+Cables 
+Coronaviruses 
+COVID-19 
+Feasibility studies 
+Fiber optics 
+Public health 
+Sensor arrays 
+Streets 
+Temporal resolution 
+Traffic 
+Traffic flow 
+Traffic speed 
+Traffic volume 
+Transportation safety 
+Vibrations
+MESH Genre
+peer_reviewed
+Language
+English
+Is Part Of
+Communications earth & environment, 2021, Vol.2 (1), p.1-9
+Description
+Abstract The COVID-19 lockdown has unprecedently affected the dynamics of our society. As traffic flow is a good proxy for societal activity, traffic monitoring becomes a useful tool to assess the lockdown’s impacts. Here we turned two strands of unused telecommunication fibers in Pasadena, California into a seismic array of ~5,000 sensors and detected ground vibrations caused by moving vehicles along the streets above the cable. We monitor the number of vehicles and their mean speed between December 2019 and August 2020 in high spatial and temporal resolution, and then analyze the traffic patterns change due to the COVID-19 lockdown. Our results show a city-wide decline in traffic volume and an increase in speed due to the lockdown, although the level of impact varies substantially by streets. This study demonstrates the feasibility of using telecommunication fiber optic cables in traffic monitoring, which has implications for public health, economy, and transportation safety.
+Publisher
+London: Nature Publishing Group
+Identifier
+ISSN: 2662-4435
+EISSN: 2662-4435
+DOI: 10.1038/s43247-021-00234-3
+
+
+
 ## 
