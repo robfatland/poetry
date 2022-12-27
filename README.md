@@ -1,3 +1,5 @@
+[reference notes](https://github.com/robfatland/das/blob/main/references.md)
+
 # das
 
 
