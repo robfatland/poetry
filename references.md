@@ -36,3 +36,46 @@ require a new class of cloud-native approaches in which both data and analysis a
 - ISSN: 0895-0695
 - EISSN: 1938-2057
 - DOI: 10.1785/0220190357
+
+
+## QuakeFlow: a scalable machine-learning-based earthquake monitoring workflow with cloud computing
+
+- Zhu, Weiqiang and 6 others
+- Geophysical journal international, 2022, Vol.232 (1), p.684-693
+
+#### Description
+SUMMARY Earthquake monitoring workflows are designed to detect earthquake signals and 
+to determine source characteristics from continuous waveform data. Recent developments 
+in deep learning seismology have been used to improve tasks within earthquake 
+monitoring workflows that allow the fast and accurate detection of up to orders 
+of magnitude more small events than are present in conventional catalogues. To 
+facilitate the application of machine-learning algorithms to large-volume seismic 
+records at scale, we developed a cloud-based earthquake monitoring workflow, 
+QuakeFlow, which applies multiple processing steps to generate earthquake catalogues 
+from raw seismic data. QuakeFlow uses a deep learning model, PhaseNet, for picking 
+P/S phases and a machine learning model, GaMMA, for phase association with 
+approximate earthquake location and magnitude. Each component in QuakeFlow is 
+containerized, allowing straightforward updates to the pipeline with new deep 
+learning/machine learning models, as well as the ability to add new components, 
+such as earthquake relocation algorithms. We built QuakeFlow in Kubernetes to 
+make it auto-scale for large data sets and to make it easy to deploy on cloud 
+platforms, which enables large-scale parallel processing. We used QuakeFlow to 
+process three years of continuous archived data from Puerto Rico within a few 
+hours, and found more than a factor of ten more events that occurred on much 
+the same structures as previously known seismicity. We applied Quakeflow to 
+monitoring earthquakes in Hawaii and found over an order of magnitude more 
+events than are in the standard catalogue, including many events that illuminate 
+the deep structure of the magmatic system. We also added Kafka and Spark streaming 
+to deliver real-time earthquake monitoring results. QuakeFlow is an effective 
+and efficient approach both for improving real-time earthquake monitoring and 
+for mining archived seismic data sets.
+
+#### Metadata
+
+- Publisher
+- Ithaca: Oxford University Press
+- Identifier
+- ISSN: 0956-540X
+- EISSN: 1365-246X
+- EISSN: 2331-8422
+- DOI: 10.1093/gji/ggac355
