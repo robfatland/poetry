@@ -123,3 +123,39 @@ cryoseismology, and seismology on other solar system bodies.
 - DOI: 10.1785/0220190112
 
 
+## High‐performance IO for seismic processing on the cloud
+Author
+Guimarães, Antonio 
+Lacalle, Luis 
+Rodamilans, Charles B. 
+Borin, Edson
+LCSH and PCI subjects
+cloud computing 
+Cost analysis 
+Data analysis 
+Data structures 
+high‐performance IO 
+Information management 
+SEG‐Y 
+seismic processing 
+Seismic response 
+Seismology 
+Workflow
+MESH Genre
+peer_reviewed
+Language
+English
+Is Part Of
+Concurrency and computation, 2021, Vol.33 (18), p.n/a
+Description
+Summary Most of the applications in the seismology field rely on the processing of up to hundreds of terabytes of data and their performance is strongly affected by IO operations. In this article, we analyze the main file structures currently used to store seismic data and propose a new intermediate data structure to improve IO performance while still complying with established standards. We show that, throughout a common workflow in seismic data analysis, our IO performance gain greatly surpasses the overhead of translating data to the intermediate structure. This approach enables a speedup of up to 208 times in reading time when using classical standards (e.g., SEG‐Y) and our intermediate structure is up to 1.8 times more efficient than modern formats (e.g., ASDF). Considering cache‐friendly applications, our speedups over the direct use of SEG‐Y reach 8000 times. We also performed a cost analysis on the AWS cloud showing that, in our approach, HDDs can be 1.25 times more cost‐effective than SSDs.
+Publisher
+Hoboken: Wiley Subscription Services, Inc
+Identifier
+ISSN: 1532-0626
+EISSN: 1532-0634
+DOI: 10.1002/cpe.6250
+
+
+
+## 
