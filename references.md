@@ -1,3 +1,6 @@
+[das repository home](http://github.com/robfatland/das)
+
+
 ## USGS article: Seismology in the cloud; a new streaming workflow
 
 MacCarthy, Jonathan, Marcillo, Omar, Trabant, Chad
