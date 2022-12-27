@@ -45,7 +45,8 @@ antennas. Seismological Research Letters, 91(1), 1-15.
 - Guimaraes, A., Lacalle, L., Rodamilans, C. B., & Borin, E. (2021). High-performance IO
 for seismic processing on the cloud. Concurrency and Computation: Practice and
 Experience, 33(18), e6250.
-- Spica, Z. J., Ajo-Franklin, J., Beroza, G., Biondi, B., Cheng, F., Gaite, B., ... & Zhu, T.
+- [eartharxiv preprint](https://eartharxiv.org/repository/view/3574/) 
+Spica, Z. J., Ajo-Franklin, J., Beroza, G., Biondi, B., Cheng, F., Gaite, B., ... & Zhu, T.
 (2022). PubDAS: a PUBlic Distributed Acoustic Sensing datasets repository for
 geosciences.
 - Wang, X., Zhan, Z., Williams, E. F., Herráez, M. G., Martins, H. F., & Karrenbach, M.
