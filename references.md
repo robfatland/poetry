@@ -82,3 +82,44 @@ for mining archived seismic data sets.
 - EISSN: 1365-246X
 - EISSN: 2331-8422
 - DOI: 10.1093/gji/ggac355
+
+
+## Distributed acoustic sensing turns fiber-optic cables into sensitive seismic antennas
+
+Author Zhan, Zhongwen
+
+Seismological research letters, 2019, Vol.91 (1), p.1-15
+
+#### Description
+
+Distributed acoustic sensing (DAS) is a new, relatively inexpensive technology that 
+is rapidly demonstrating its promise for recording earthquake waves and other seismic 
+signals in a wide range of research and public safety arenas. It should significantly 
+augment present seismic networks. For several important applications, it should be 
+superior. It employs ordinary fiber-optic cables, but not as channels for data among 
+separate sophisticated instruments. With DAS, the hair-thin glass fibers themselves 
+are the sensors. Internal natural flaws serve as seismic strainmeters, kinds of 
+seismic detector. Unused or dark fibers are common in fiber cables widespread around 
+the globe, or in dedicated cables designed for special application, are appropriate 
+for DAS. They can sample passing seismic waves at locations every few meters or 
+closer along paths stretching for tens of kilometers. DAS arrays should enrich the 
+three major areas of local and regional seismology: earthquake monitoring, imaging 
+of faults and many other geologic formations, and hazard assessment. Recent 
+laboratory and field results from DAS tests underscore its broad bandwidth and 
+high-waveform fidelity. Thus, while still in its infancy, DAS already has shown 
+itself as the working heart-or perhaps ear drums-of a valuable new seismic listening 
+tool. My colleagues and I expect rapid growth of applications. We further expect it 
+to spread into such frontiers as ocean-bottom seismology, glacial and related 
+cryoseismology, and seismology on other solar system bodies.
+
+
+#### metadata
+
+- Publisher
+- Seismological Society of America
+- Identifier
+- ISSN: 0895-0695
+- EISSN: 1938-2057
+- DOI: 10.1785/0220190112
+
+
