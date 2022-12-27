@@ -33,8 +33,8 @@ Notes for 2023 winter incubator
     - Reporting / pub
 
 
-- MacCarthy, J., Marcillo, O., & Trabant, C. (2020). Seismology in the cloud: A new
-streaming workflow. Seismological Research Letters, 91(3), 1804-1812.
+- [MacCarthy, J., Marcillo, O., & Trabant, C. (2020). Seismology in the cloud: A new
+streaming workflow. Seismological Research Letters, 91(3), 1804-1812.](https://github.com/robfatland/das/blob/main/references.md)
 - Zhu, W., Hou, A. B., Yang, R., Datta, A., Mousavi, S. M., Ellsworth, W. L., & Beroza, G. C.
 (2022). QuakeFlow: a scalable machine-learning-based earthquake monitoring workflow
 with cloud computing. Geophysical Journal International, 232(1), 684-693.
