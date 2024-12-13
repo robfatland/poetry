@@ -1,7 +1,7 @@
-Sweeney among the Nightingales
+Sweeney among the Nightingales<br>
 BY T. S. ELIOT
 
-Apeneck Sweeney spread his knees
+Apeneck Sweeney spread his knees<br>
 Letting his arms hang down to laugh,
 The zebra stripes along his jaw
 Swelling to maculate giraffe.
